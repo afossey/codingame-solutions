@@ -1,8 +1,7 @@
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
+# https://www.codingame.com/ide/puzzle/bender-episode-1
 
 l, c = [int(i) for i in input().split()]
 _map = []

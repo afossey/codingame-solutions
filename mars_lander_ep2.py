@@ -1,8 +1,7 @@
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
+# https://www.codingame.com/ide/puzzle/mars-lander-episode-2
 
 surface = []
 surface_n = int(input())  # the number of points used to draw the surface of Mars.
