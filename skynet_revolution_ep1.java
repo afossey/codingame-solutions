@@ -3,7 +3,7 @@ import java.io.*;
 import java.math.*;
 import java.util.stream.*;
 
-# https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
+// https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
 
 /**
  * Auto-generated code below aims at helping you parse

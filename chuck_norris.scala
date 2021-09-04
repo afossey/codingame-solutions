@@ -1,7 +1,7 @@
 import math._
 import scala.util._
 
-# https://www.codingame.com/ide/puzzle/chuck-norris
+// https://www.codingame.com/ide/puzzle/chuck-norris
 
 /**
  * Auto-generated code below aims at helping you parse
