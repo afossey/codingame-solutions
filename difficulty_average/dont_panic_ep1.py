@@ -19,10 +19,8 @@ for i in range(nb_elevators):
     elevator_floor, elevator_pos = [int(j) for j in input().split()]
     elevators[elevator_floor] = elevator_pos
 
-LEFT, RIGHT = "LEFT", "RIGHT"
-
 def get_direction(a, b):
-    return LEFT if a > b else RIGHT
+    return "LEFT" if a > b else "RIGHT"
 
 print("Exit: " + str([exit_floor, exit_pos]), file=sys.stderr, flush=True)
 print("Elevators: " + str(elevators), file=sys.stderr, flush=True)
